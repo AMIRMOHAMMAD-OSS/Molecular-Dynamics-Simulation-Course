@@ -1,0 +1,23 @@
+# Large GROMACS trajectory/binary files
+*.trr
+*.xtc
+*.edr
+*.cpt
+*.tpr
+
+# GROMACS/editor backups
+*~
+#*#
+*.bak
+
+# Software archives / installers
+*.tar.gz
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
