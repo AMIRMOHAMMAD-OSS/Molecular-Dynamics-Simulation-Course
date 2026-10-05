@@ -1,10 +1,25 @@
 # Molecular Dynamics Simulation Course
 
-This repository contains molecular dynamics simulation exercises performed with **GROMACS**, with molecular visualization using **VMD**.
+This repository contains molecular dynamics simulations and practical exercises completed as part of the **Advanced Molecular Dynamics and Protein Simulation with GROMACS** course by **FaraDars**, which I completed in June 2025.
 
-## S03 — Lysozyme Molecular Dynamics
+The projects were carried out primarily using **GROMACS** for molecular dynamics simulations and **VMD** for molecular visualization and trajectory rendering.
 
-A molecular dynamics simulation of lysozyme in explicit solvent.
+## Course
+
+**Advanced Molecular Dynamics and Protein Simulation with GROMACS**  
+Instructor: **Dr. Azadeh Kordzadeh**  
+Completed: **June 20, 2025**
+
+- [Course page](https://faradars.org/courses/simulation-of-molecular-dynamics-and-proteins-with-gromacs-supplementary-fvch0101)
+- [Certificate verification](https://faradars.org/verify/C89CA8ED)
+
+---
+
+## Repository Contents
+
+### S03 — Lysozyme Molecular Dynamics
+
+Molecular dynamics simulation of **lysozyme in explicit solvent**.
 
 The system was prepared, energy-minimized, equilibrated under NVT and NPT conditions, and followed by a production MD simulation.
 
@@ -14,27 +29,50 @@ The system was prepared, energy-minimized, equilibrated under NVT and NPT condit
 
 ---
 
-## S04 — Carbon Nanotube and Doxorubicin
+### S04 — Carbon Nanotube and Doxorubicin
 
 Molecular dynamics simulation of **doxorubicin (DOX)** interacting with a **carbon nanotube (CNT)** in aqueous solution.
 
-The system contains:
+The system includes:
 
 - Carbon nanotube
-- Doxorubicin molecules
+- Multiple doxorubicin molecules
 - Explicit water
-- Molecular dynamics trajectory
+- Production molecular dynamics trajectory
 
-The production simulation was run for **10 ns**, followed by visualization of the motion of DOX molecules relative to the nanotube.
+The trajectory shows the motion and interaction of DOX molecules around the nanotube surface.
+
+![CNT–DOX MD](S04/cnt/s04_final.gif)
+
+---
+
+### S05 — DPPC Membrane Simulation
+
+Preparation and molecular dynamics simulation of a **DPPC lipid bilayer** in explicit solvent.
+
+This section includes membrane system construction, energy minimization, equilibration, and production MD.
+
+---
+
+### S06 — Doxorubicin Pulling Through a Carbon Nanotube
+
+Steered molecular dynamics and umbrella-sampling setup for pulling a **DOX molecule along the axis of a carbon nanotube**.
+
+The trajectory shows the molecule moving from one side of the CNT, through its interior, and toward the opposite side.
+
+![DOX Pulling Through CNT](S06/umbrella1/umbrella/vmd_output_s06_final/s06_final.gif)
 
 ---
 
 ## Tools
 
-- GROMACS
-- VMD
-- Python
+- **GROMACS** — molecular dynamics simulations
+- **VMD** — molecular visualization and trajectory rendering
+- **ImageMagick** — GIF generation and image conversion
+
+---
 
 ## Author
 
-**AMIRMOHAMMAD-OSS**
+**AmirMohammad MohammadHosseini**  
+GitHub: [AMIRMOHAMMAD-OSS](https://github.com/AMIRMOHAMMAD-OSS)
