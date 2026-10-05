@@ -23,8 +23,6 @@ Molecular dynamics simulation of **lysozyme in explicit solvent**.
 
 The system was prepared, energy-minimized, equilibrated under NVT and NPT conditions, and followed by a production MD simulation.
 
-### MD Trajectory
-
 ![Lysozyme MD Simulation](S03/lyzozyme/lysozyme_md.gif)
 
 ---
@@ -33,24 +31,17 @@ The system was prepared, energy-minimized, equilibrated under NVT and NPT condit
 
 Molecular dynamics simulation of **doxorubicin (DOX)** interacting with a **carbon nanotube (CNT)** in aqueous solution.
 
-The system includes:
+The trajectory shows the motion and interaction of multiple DOX molecules around the nanotube surface.
 
-- Carbon nanotube
-- Multiple doxorubicin molecules
-- Explicit water
-- Production molecular dynamics trajectory
-
-The trajectory shows the motion and interaction of DOX molecules around the nanotube surface.
-
-![CNT–DOX MD](S04/cnt/s04_final.gif)
+![CNT–DOX MD](S04/cnt_dox_md.gif)
 
 ---
 
 ### S05 — DPPC Membrane Simulation
 
-Preparation and molecular dynamics simulation of a **DPPC lipid bilayer** in explicit solvent.
+Molecular dynamics simulation of a **DPPC lipid bilayer** in explicit solvent, including membrane preparation, equilibration, and production MD.
 
-This section includes membrane system construction, energy minimization, equilibration, and production MD.
+![DPPC Membrane MD](S05/dppc_md.gif)
 
 ---
 
@@ -58,21 +49,9 @@ This section includes membrane system construction, energy minimization, equilib
 
 Steered molecular dynamics and umbrella-sampling setup for pulling a **DOX molecule along the axis of a carbon nanotube**.
 
-The trajectory shows the molecule moving from one side of the CNT, through its interior, and toward the opposite side.
+The trajectory shows the molecule moving through the CNT along the pulling direction.
 
-![DOX Pulling Through CNT](S06/umbrella1/umbrella/vmd_output_s06_final/s06_final.gif)
+![DOX Pulling Through CNT](S06/s06_final.gif)
 
----
 
-## Tools
-
-- **GROMACS** — molecular dynamics simulations
-- **VMD** — molecular visualization and trajectory rendering
-- **ImageMagick** — GIF generation and image conversion
-
----
-
-## Author
-
-**AmirMohammad MohammadHosseini**  
 GitHub: [AMIRMOHAMMAD-OSS](https://github.com/AMIRMOHAMMAD-OSS)
