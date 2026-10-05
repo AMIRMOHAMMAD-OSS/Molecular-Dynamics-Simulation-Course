@@ -1,0 +1,30 @@
+# This file was created Fri Nov 23 20:45:48 2018
+# Created by:
+#                   :-) GROMACS - gmx order, VERSION 5.1.4 (-:
+# 
+# Executable:   /usr/local/gromacs/bin/gmx
+# Data prefix:  /usr/local/gromacs
+# Command line:
+#   gmx order -s md.tpr -f md.xtc -od -d z -n sn1.ndx
+# gmx order is part of G R O M A C S:
+#
+# Glycine aRginine prOline Methionine Alanine Cystine Serine
+#
+@    title "Deuterium order parameters"
+@    xaxis  label "Atom"
+@    yaxis  label "Scd"
+@TYPE xy
+           1       0.246229
+           2        0.18698
+           3       0.185625
+           4       0.190349
+           5       0.190104
+           6       0.186771
+           7       0.185739
+           8       0.170492
+           9       0.159615
+          10       0.143475
+          11       0.134962
+          12       0.125132
+          13       0.105105
+          14      0.0823513

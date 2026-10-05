@@ -1,0 +1,145 @@
+%chk=C:\Users\Novin Pendar\Desktop\popdox.chk
+# b3lyp/6-31g(d,p) geom=connectivity formcheck pop=esp scrf=(solvent=water)
+
+ALL ATOM STRUCTURE FOR MOLECULE LIG
+
+0 1
+ H(PDBName=H29,ResName=V3O,ResNum=0)                   6.34990400   -4.46075300   -1.05055800
+ C(PDBName=C27,ResName=V3O,ResNum=0)                   6.71475700   -3.46911000   -0.71310800
+ H(PDBName=H27,ResName=V3O,ResNum=0)                   7.23264200   -3.60678900    0.26032200
+ H(PDBName=H28,ResName=V3O,ResNum=0)                   7.41464100   -3.08142900   -1.48398500
+ O(PDBName=O11,ResName=V3O,ResNum=0)                   5.59587100   -2.59467500   -0.56605400
+ C(PDBName=C15,ResName=V3O,ResNum=0)                   5.82507200   -1.27138000   -0.12392900
+ C(PDBName=C13,ResName=V3O,ResNum=0)                   4.70780100   -0.41754500    0.04890600
+ C(PDBName=C14,ResName=V3O,ResNum=0)                   4.89611300    0.91820100    0.45490200
+ C(PDBName=C16,ResName=V3O,ResNum=0)                   6.19033200    1.39591900    0.70700000
+ H(PDBName=H6,ResName=V3O,ResNum=0)                    6.35049600    2.41918000    1.02368300
+ C(PDBName=C12,ResName=V3O,ResNum=0)                   3.72505300    1.80092900    0.64199000
+ O(PDBName=O2,ResName=V3O,ResNum=0)                    3.82376600    2.79282300    1.41491300
+ C(PDBName=C10,ResName=V3O,ResNum=0)                   2.39936600    1.40222000    0.09177400
+ C(PDBName=C8,ResName=V3O,ResNum=0)                    1.31288300    2.30771400    0.01679500
+ O(PDBName=O10,ResName=V3O,ResNum=0)                   1.47910200    3.68112200    0.24048400
+ H(PDBName=H26,ResName=V3O,ResNum=0)                   2.39803100    4.02872300    0.00054900
+ C(PDBName=C6,ResName=V3O,ResNum=0)                    0.02219900    1.84265600   -0.31409800
+ C(PDBName=C5,ResName=V3O,ResNum=0)                   -0.15939600    0.56132900   -0.74363300
+ C(PDBName=C4,ResName=V3O,ResNum=0)                   -1.12381800    2.83964700   -0.23797000
+ H(PDBName=H4,ResName=V3O,ResNum=0)                   -1.03854800    3.42937200    0.70159800
+ H(PDBName=H5,ResName=V3O,ResNum=0)                   -1.00819600    3.54871500   -1.08802800
+ C(PDBName=C2,ResName=V3O,ResNum=0)                   -2.52879300    2.19616800   -0.26882800
+ O(PDBName=O6,ResName=V3O,ResNum=0)                   -2.84696100    1.58513700    0.96521700
+ H(PDBName=H21,ResName=V3O,ResNum=0)                  -2.03187900    1.17018200    1.34909600
+ C(PDBName=C3,ResName=V3O,ResNum=0)                   -2.56309900    1.14563400   -1.39071500
+ H(PDBName=H2,ResName=V3O,ResNum=0)                   -3.57980600    0.70814100   -1.47360300
+ H(PDBName=H3,ResName=V3O,ResNum=0)                   -2.34597900    1.63905600   -2.36544600
+ C(PDBName=C25,ResName=V3O,ResNum=0)                  -3.55950800    3.28454000   -0.54711800
+ O(PDBName=O7,ResName=V3O,ResNum=0)                   -3.70100900    3.71122300   -1.68494500
+ C(PDBName=C26,ResName=V3O,ResNum=0)                  -4.37626400    3.90196300    0.55935000
+ H(PDBName=H22,ResName=V3O,ResNum=0)                  -4.94810500    3.11502300    1.10189500
+ H(PDBName=H23,ResName=V3O,ResNum=0)                  -5.12031000    4.60574000    0.12824000
+ O(PDBName=O8,ResName=V3O,ResNum=0)                   -3.54689900    4.62080500    1.43151700
+ H(PDBName=H24,ResName=V3O,ResNum=0)                  -3.21517000    3.97796700    2.11096900
+ C(PDBName=C1,ResName=V3O,ResNum=0)                   -1.52184000    0.03338700   -1.17981300
+ H(PDBName=H1,ResName=V3O,ResNum=0)                   -1.38119400   -0.43242900   -2.18414800
+ O(PDBName=O3,ResName=V3O,ResNum=0)                   -1.97448300   -0.88063600   -0.18930700
+ C(PDBName=C19,ResName=V3O,ResNum=0)                  -2.49160400   -2.08176900   -0.74539900
+ H(PDBName=H9,ResName=V3O,ResNum=0)                   -1.88331000   -2.42581700   -1.61248400
+ O(PDBName=O4,ResName=V3O,ResNum=0)                   -3.83168700   -1.91195900   -1.18918200
+ C(PDBName=C20,ResName=V3O,ResNum=0)                  -4.70351300   -1.59379600   -0.11340400
+ H(PDBName=H10,ResName=V3O,ResNum=0)                  -4.36296100   -0.67181900    0.41033700
+ C(PDBName=C24,ResName=V3O,ResNum=0)                  -2.38014200   -3.22046800    0.28368600
+ H(PDBName=H16,ResName=V3O,ResNum=0)                  -1.33695200   -3.27179100    0.66584500
+ H(PDBName=H17,ResName=V3O,ResNum=0)                  -2.60680900   -4.18735900   -0.21832400
+ C(PDBName=C23,ResName=V3O,ResNum=0)                  -3.35258800   -3.00773600    1.45257900
+ H(PDBName=H15,ResName=V3O,ResNum=0)                  -3.02433100   -2.11337200    2.03218300
+ N(PDBName=N1,ResName=V3O,ResNum=0)                   -3.34323300   -4.17415200    2.33682700
+ H(PDBName=H19,ResName=V3O,ResNum=0)                  -3.96766200   -3.97210700    3.15146900
+ H(PDBName=H20,ResName=V3O,ResNum=0)                  -2.37997100   -4.27964300    2.73121200
+ C(PDBName=C21,ResName=V3O,ResNum=0)                  -4.76894900   -2.75064300    0.90506300
+ H(PDBName=H11,ResName=V3O,ResNum=0)                  -5.43457900   -2.44549600    1.74753900
+ O(PDBName=O5,ResName=V3O,ResNum=0)                   -5.27116300   -3.90714200    0.28035800
+ H(PDBName=H18,ResName=V3O,ResNum=0)                  -5.67159600   -4.47071300    0.99265900
+ C(PDBName=C22,ResName=V3O,ResNum=0)                  -6.08956600   -1.27924400   -0.67790900
+ H(PDBName=H12,ResName=V3O,ResNum=0)                  -6.48621900   -2.14394600   -1.25133000
+ H(PDBName=H13,ResName=V3O,ResNum=0)                  -6.02576300   -0.40443300   -1.35929600
+ H(PDBName=H14,ResName=V3O,ResNum=0)                  -6.79486900   -1.03231400    0.14419700
+ C(PDBName=C11,ResName=V3O,ResNum=0)                   3.32214700   -0.90732600   -0.15361100
+ O(PDBName=O1,ResName=V3O,ResNum=0)                    3.06507000   -2.12558800    0.04841600
+ C(PDBName=C9,ResName=V3O,ResNum=0)                    2.20475000    0.06525600   -0.31063100
+ C(PDBName=C7,ResName=V3O,ResNum=0)                    0.93547800   -0.33063600   -0.79819200
+ O(PDBName=O9,ResName=V3O,ResNum=0)                    0.72925700   -1.59505500   -1.36677600
+ H(PDBName=H25,ResName=V3O,ResNum=0)                   1.55639800   -2.00481700   -1.77994600
+ C(PDBName=C17,ResName=V3O,ResNum=0)                   7.11883000   -0.75949700    0.13185400
+ H(PDBName=H7,ResName=V3O,ResNum=0)                    8.00559000   -1.36579800    0.01552500
+ C(PDBName=C18,ResName=V3O,ResNum=0)                   7.29176700    0.56033700    0.54546500
+ H(PDBName=H8,ResName=V3O,ResNum=0)                    8.28741300    0.93886700    0.73888500
+
+ 1 2 1.0
+ 2 3 1.0 4 1.0 5 1.0
+ 3
+ 4
+ 5 6 1.0
+ 6 7 1.5 65 1.5
+ 7 8 1.5 59 1.0
+ 8 9 1.5 11 1.0
+ 9 10 1.0 67 1.5
+ 10
+ 11 12 2.0 13 1.0
+ 12
+ 13 14 1.5 61 1.5
+ 14 15 1.0 17 1.5
+ 15 16 1.0
+ 16
+ 17 18 2.0 19 1.0
+ 18 35 1.0 62 1.5
+ 19 20 1.0 21 1.0 22 1.0
+ 20
+ 21
+ 22 23 1.0 25 1.0 28 1.0
+ 23 24 1.0
+ 24
+ 25 26 1.0 27 1.0 35 1.0
+ 26
+ 27
+ 28 29 2.0 30 1.0
+ 29
+ 30 31 1.0 32 1.0 33 1.0
+ 31
+ 32
+ 33 34 1.0
+ 34
+ 35 36 1.0 37 1.0
+ 36
+ 37 38 1.0
+ 38 39 1.0 40 1.0 43 1.0
+ 39
+ 40 41 1.0
+ 41 42 1.0 51 1.0 55 1.0
+ 42
+ 43 44 1.0 45 1.0 46 1.0
+ 44
+ 45
+ 46 47 1.0 48 1.0 51 1.0
+ 47
+ 48 49 1.0 50 1.0
+ 49
+ 50
+ 51 52 1.0 53 1.0
+ 52
+ 53 54 1.0
+ 54
+ 55 56 1.0 57 1.0 58 1.0
+ 56
+ 57
+ 58
+ 59 60 2.0 61 1.0
+ 60
+ 61 62 1.5
+ 62 63 1.0
+ 63 64 1.0
+ 64
+ 65 66 1.0 67 1.5
+ 66
+ 67 68 1.0
+ 68
+
+

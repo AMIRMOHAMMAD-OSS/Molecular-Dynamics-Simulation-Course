@@ -1,0 +1,20 @@
+%nprocshared=1
+%mem=6MW
+%chk=C:\Users\azadeh\Documents\faradars\gaussian\methan.chk
+# b3lyp/6-31++g(d,p) geom=connectivity scrf=(solvent=water)
+
+Title Card Required
+
+0 1
+ C                  6.55251154    1.11872144    0.00000000
+ H                  6.90916596    0.10991144    0.00000000
+ H                  6.90918438    1.62311963    0.87365150
+ H                  6.90918438    1.62311963   -0.87365150
+ H                  5.48251154    1.11873463    0.00000000
+
+ 1 2 1.0 3 1.0 4 1.0 5 1.0
+ 2
+ 3
+ 4
+ 5
+

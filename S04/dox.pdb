@@ -1,0 +1,88 @@
+HEADER    PROTEIN                                 23-FEB-12   NONE
+TITLE     NULL                                                        
+COMPND    MOLECULE: 997                                               
+SOURCE    NULL                                                        
+KEYWDS    NULL                                                        
+EXPDTA    NULL                                                        
+AUTHOR    Marvin                                                      
+REVDAT   1   23-FEB-12         0                                  
+HETATM    1  O   UNK     0       9.211   0.777   0.000  0.00  0.00           O+0
+HETATM    2  O   UNK     0       6.544   0.807   0.000  0.00  0.00           O+0
+HETATM    3  O   UNK     0       7.033  -4.495   0.000  0.00  0.00           O+0
+HETATM    4  O   UNK     0       3.912   3.918   0.000  0.00  0.00           O+0
+HETATM    5  O   UNK     0      11.904   0.723   0.000  0.00  0.00           O+0
+HETATM    6  O   UNK     0      11.904  -5.437   0.000  0.00  0.00           O+0
+HETATM    7  O   UNK     0       5.483  -1.834   0.000  0.00  0.00           O+0
+HETATM    8  O   UNK     0       3.953  -4.507   0.000  0.00  0.00           O+0
+HETATM    9  O   UNK     0      14.596   0.777   0.000  0.00  0.00           O+0
+HETATM   10  O   UNK     0      14.596  -5.490   0.000  0.00  0.00           O+0
+HETATM   11  O   UNK     0      17.426   0.843   0.000  0.00  0.00           O+0
+HETATM   12  N   UNK     0       6.597   5.427   0.000  0.00  0.00           N+0
+HETATM   13  C   UNK     0       9.193  -0.763   0.000  0.00  0.00           C+0
+HETATM   14  C   UNK     0       7.798  -3.159   0.000  0.00  0.00           C+0
+HETATM   15  C   UNK     0       7.798  -1.555   0.000  0.00  0.00           C+0
+HETATM   16  C   UNK     0       9.193  -3.950   0.000  0.00  0.00           C+0
+HETATM   17  C   UNK     0      10.570  -1.587   0.000  0.00  0.00           C+0
+HETATM   18  C   UNK     0      10.570  -3.127   0.000  0.00  0.00           C+0
+HETATM   19  C   UNK     0       7.886   1.562   0.000  0.00  0.00           C+0
+HETATM   20  C   UNK     0       7.904   3.102   0.000  0.00  0.00           C+0
+HETATM   21  C   UNK     0       6.579   3.887   0.000  0.00  0.00           C+0
+HETATM   22  C   UNK     0       5.237   3.133   0.000  0.00  0.00           C+0
+HETATM   23  C   UNK     0       5.219   1.593   0.000  0.00  0.00           C+0
+HETATM   24  C   UNK     0      11.904  -0.817   0.000  0.00  0.00           C+0
+HETATM   25  C   UNK     0       6.258  -3.165   0.000  0.00  0.00           C+0
+HETATM   26  C   UNK     0      11.904  -3.897   0.000  0.00  0.00           C+0
+HETATM   27  C   UNK     0      13.237  -1.587   0.000  0.00  0.00           C+0
+HETATM   28  C   UNK     0      13.237  -3.127   0.000  0.00  0.00           C+0
+HETATM   29  C   UNK     0       3.877   0.838   0.000  0.00  0.00           C+0
+HETATM   30  C   UNK     0       5.493  -4.501   0.000  0.00  0.00           C+0
+HETATM   31  C   UNK     0      14.614  -0.763   0.000  0.00  0.00           C+0
+HETATM   32  C   UNK     0      14.614  -3.950   0.000  0.00  0.00           C+0
+HETATM   33  C   UNK     0      16.009  -1.555   0.000  0.00  0.00           C+0
+HETATM   34  C   UNK     0      16.009  -3.159   0.000  0.00  0.00           C+0
+HETATM   35  C   UNK     0      17.443  -0.697   0.000  0.00  0.00           C+0
+HETATM   36  C   UNK     0      17.443  -4.016   0.000  0.00  0.00           C+0
+HETATM   37  C   UNK     0      18.897  -1.521   0.000  0.00  0.00           C+0
+HETATM   38  C   UNK     0      18.897  -3.192   0.000  0.00  0.00           C+0
+HETATM   39  C   UNK     0      18.750   1.628   0.000  0.00  0.00           C+0
+CONECT    1   13   19                                                       
+CONECT    2   19   23                                                       
+CONECT    3   14                                                            
+CONECT    4   22                                                            
+CONECT    5   24                                                            
+CONECT    6   26                                                            
+CONECT    7   25                                                            
+CONECT    8   30                                                            
+CONECT    9   31                                                            
+CONECT   10   32                                                            
+CONECT   11   35   39                                                       
+CONECT   12   21                                                            
+CONECT   13    1   15   17                                                  
+CONECT   14    3   15   16   25                                             
+CONECT   15   13   14                                                       
+CONECT   16   14   18                                                       
+CONECT   17   13   18   24                                                  
+CONECT   18   16   17   26                                                  
+CONECT   19    1    2   20                                                  
+CONECT   20   19   21                                                       
+CONECT   21   12   20   22                                                  
+CONECT   22    4   21   23                                                  
+CONECT   23    2   22   29                                                  
+CONECT   24    5   17   27                                                  
+CONECT   25    7   14   30                                                  
+CONECT   26    6   18   28                                                  
+CONECT   27   24   28   31                                                  
+CONECT   28   26   27   32                                                  
+CONECT   29   23                                                            
+CONECT   30    8   25                                                       
+CONECT   31    9   27   33                                                  
+CONECT   32   10   28   34                                                  
+CONECT   33   31   34   35                                                  
+CONECT   34   32   33   36                                                  
+CONECT   35   11   33   37                                                  
+CONECT   36   34   38                                                       
+CONECT   37   35   38                                                       
+CONECT   38   36   37                                                       
+CONECT   39   11                                                            
+MASTER        0    0    0    0    0    0    0    0   39    0   86    0
+END

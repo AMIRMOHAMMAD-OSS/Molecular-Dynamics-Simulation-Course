@@ -1,23 +1,26 @@
-# Large GROMACS trajectory/binary files
+# GROMACS generated trajectories
 *.trr
 *.xtc
-*.edr
+
+# GROMACS checkpoints / generated energy files
 *.cpt
-*.tpr
+*.edr
 
-# GROMACS/editor backups
-*~
-#*#
+# Temporary / backup files
+*.tmp
 *.bak
+*~
+\#*\#
 
-# Software archives / installers
-*.tar.gz
-*.zip
-
-# Python
+# Python cache
 __pycache__/
 *.pyc
 
-# OS
-.DS_Store
-Thumbs.db
+# Gaussian QM artifacts (S04/coo parametrization)
+*.chk
+*.fchk
+*.FChk
+*.rwf
+*.d2e
+*.int
+S04/coo/SIDE.LOG

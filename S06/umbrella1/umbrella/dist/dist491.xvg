@@ -1,0 +1,17 @@
+# This file was created Sun Jul 29 17:35:06 2018
+# Created by:
+#                 :-) GROMACS - gmx distance, VERSION 5.1.4 (-:
+# 
+# Executable:   /usr/local/gromacs/bin/gmx
+# Data prefix:  /usr/local/gromacs
+# Command line:
+#   gmx distance -s pull.tpr -f conf491.gro -n index.ndx -oall dist491.xvg -select 'com of group "RNA" plus com of group "V3OU"'
+# gmx distance is part of G R O M A C S:
+#
+# S  C  A  M  O  R  G
+#
+@    title "Distance"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Distance (nm)"
+@TYPE xy
+    491.000    2.260
